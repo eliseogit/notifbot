@@ -1,9 +1,9 @@
-Notifbot notifications to friends, groups, teams easier via code!
+Notifbot sends notifications to friends, groups, and teams via code!
 
 **NOTES**:
 - Programmed in Python
-- Google Accounts are required for the sender
-There are comments inside the code explaining most functions and inputs needed.
+- A Google Accounts are required for the sender
+#There are comments inside the code explaining most functions and inputs needed.
 
 Pros:
 - Versatile code
